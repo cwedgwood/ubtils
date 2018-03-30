@@ -16,4 +16,4 @@ If you wish to use the container:
 docker run -ti quay.io/cw/ubtils /bin/bash
 ```
 
-or navigator to: https://quay.io/repository/cw/ubtils
+or navigat to: https://quay.io/repository/cw/ubtils
